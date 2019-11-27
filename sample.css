@@ -1,0 +1,41 @@
+body{
+
+}
+h1 {
+  /* 文字の色を#ff0000にしてください */
+  color: #ff0000;
+  background-color:blue;
+  font-size:40px;
+  font-family:serif;
+}
+.yellow {
+  color: yellow;
+}
+
+p {
+  /* 文字の色を#0000ffにしてください */
+  color: blue;
+  font-style:
+  font-family:Lucida Grande;
+
+}
+li{
+  list-style: none;
+  /* 折り返しなしで左に並べる */
+  float:left;
+  font-size: 45px;
+}
+.test2 li{
+  padding-left: 20px;
+  color: red;
+}
+.footer{
+  float:right;
+  padding: 40px;
+  font-size: 100px;
+}
+.back{
+background-image: url(images.jpg);
+width:1000px;
+height:500px;
+}
